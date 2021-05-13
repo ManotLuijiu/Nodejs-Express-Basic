@@ -1,0 +1,22 @@
+{
+  "name": "nodeexpress",
+  "version": "1.0.0",
+  "description": "Learning NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Manot L.",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0",
+    "lodash": "^4.17.21"
+  }
+}
